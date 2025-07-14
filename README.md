@@ -7,3 +7,5 @@
 - Data folder
 - Plots folder
 - Optional : detailed explaination
+
+- Pennylane Official Forum code validation: https://discuss.pennylane.ai/t/gpu-underusage-for-hybrid-qnn-using-lightning-gpu-for-research/8607
