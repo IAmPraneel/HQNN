@@ -1,5 +1,7 @@
 # npjQI
 *A multi-axis diagnostic framework for Hybrid Quantum-Classical Neural Networks  in Empirical setting.*
+
+The files are structured as below:
 ```
 |- README.md
 |- ANN_train.ipynb : notebook used to train classical Artifical Neural Network (ANN).
@@ -7,4 +9,7 @@
 |- synthetic_data_creation.ipynb: notebook used to estimate noise and redundant features of real-world data, and creation of synthetic data. 
 |- Plots.ipynb : notebook used for plotting graphs (gradient norms, loss curve, QCS)
 ```
-- Pennylane Official Forum code validation: https://discuss.pennylane.ai/t/gpu-underusage-for-hybrid-qnn-using-lightning-gpu-for-research/8607
+
+The implementation for training the Hybrid Quantum Neural Network (HQNN) received positive feedback on the official PennyLane forum, particularly acknowledging its organization and optimization.
+
+- Pennylane Official Forum Thread: https://discuss.pennylane.ai/t/gpu-underusage-for-hybrid-qnn-using-lightning-gpu-for-research/8607
