@@ -14,3 +14,6 @@ The files are structured as below:
 The implementation for training the Hybrid Quantum Neural Network (HQNN) received positive feedback on the official PennyLane forum, particularly acknowledging its organization and optimization.
 
 - Pennylane Official Forum Thread: https://discuss.pennylane.ai/t/gpu-underusage-for-hybrid-qnn-using-lightning-gpu-for-research/8607
+
+**Patent Pending & Restricted Access:**  
+This code is part of a provisional patent application and is provided exclusively for peer review as part of a manuscript submission to npj Quantum Information. Access is restricted until the intellectual property rights (IPR) concerns are addressed. Unauthorized use or distribution is prohibited.
