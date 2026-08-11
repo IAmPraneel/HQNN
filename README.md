@@ -17,6 +17,3 @@ The implementation for training the Hybrid Quantum Neural Network (HQNN) receive
 
 --
 
-## Patent Pending & Restricted Access Notice
-This code is part of a provisional patent application and is provided exclusively for peer review as part of a manuscript submission to QMI. Access is restricted until the intellectual property rights (IPR) concerns are addressed. Unauthorized use or distribution is prohibited.
-This provisional patent application is filed under 35 U.S.C. § 111(b) with the United States Patent and Trademark Office (USPTO).
