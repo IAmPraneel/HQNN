@@ -1,5 +1,5 @@
-# QMI
-*A multi-axis diagnostic framework for Hybrid Quantum-Classical Neural Networks  in Empirical setting.*
+# HQNN
+*An Empirical Pilot Study of Training Dynamics in Hybrid Quantum–Classical Neural Networks*
 
 ## File Structure
 ```
